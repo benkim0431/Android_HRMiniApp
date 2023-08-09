@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_employee">Add Employee</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="designation">Designation</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="department">Department</string>
+    <string name="enter_department">Enter Department</string>
+    <string name="email_id">Email Id</string>
+    <string name="enter_email_id">Enter Email-id</string>
+    <string name="salary">Salary</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="submit">Submit</string>
+</resources>

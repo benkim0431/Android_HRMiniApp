@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617265782255",
+    "project_id": "hrminiapp-b7326",
+    "storage_bucket": "hrminiapp-b7326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617265782255:android:1b8e65f8265a32a8d02a1a",
+        "android_client_info": {
+          "package_name": "com.example.hrminiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617265782255-ucl2g197l2ma0qhp917v0ue7qh9tsnss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAabgLzimx2GX5kLTF6YYIqIaxQCzRIVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617265782255-ucl2g197l2ma0qhp917v0ue7qh9tsnss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

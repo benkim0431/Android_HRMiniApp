@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HR Prima</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="cont">CONTINUE</string>
+
+    <string name="slide_1_title">Bienvenido a RR.HH. Prima</string>
+    <string name="slide_1_desc">¡Aproveche el poder de la aplicación Ultimate HR!</string>
+    <string name="slide_2_title">Configuración de empleados</string>
+    <string name="slide_2_desc">¡Aproveche el poder de la aplicación Ultimate HR!</string>
+    <string name="slide_3_title">Gestión de nóminas</string>
+    <string name="slide_3_desc">¡Aproveche el poder de la aplicación Ultimate HR!</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="add_emp">Add Employee</string>
+    <string name="delete_emp">Delete Employee</string>
+    <string name="list_emp">List Employees</string>
+    <string name="update_emp">Update Employee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="designation">Designation</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="department">Department</string>
+    <string name="enter_department">Enter Department</string>
+    <string name="email_id">Email Id</string>
+    <string name="enter_email_id">Enter Email-id</string>
+    <string name="salary">Salary</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="submit">Submit</string>
+
+</resources>
+
